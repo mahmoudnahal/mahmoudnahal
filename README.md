@@ -7,6 +7,7 @@ I'm a Software Engineering graduate from the Islamic University of Gaza (IUG) wi
 ## 🚀 What I Do
 
 - 📱 **Mobile Development:** Flutter (BLoC, GetX, Provider, Firebase, Google Maps, Push Notifications)
+- 🎨 **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - 🔧 **Backend:** PHP, Spring Boot, Node.js, RESTful APIs, Microservices (Saga Pattern)
 - 🗄️ **Databases:** MySQL, Firestore, JPA/EclipseLink
 - ⚙️ **DevOps:** Docker, GitHub Actions (CI/CD)
