@@ -2,7 +2,7 @@
 
 **Software Engineer | Flutter Developer**
 
-I'm a Software Engineering graduate from the Islamic University of Gaza (IUG) with 2+ years of hands-on experience building production-ready Flutter applications. I focus on clean architecture, scalable backend design, and delivering complete, working products.
+I'm a Software Engineering graduate from the Islamic University of Gaza (IUG) with 3+ years of hands-on experience building production-ready Flutter applications. I focus on clean architecture, scalable backend design, and delivering complete, working products.
 
 ## 🚀 What I Do
 
